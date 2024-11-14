@@ -1,0 +1,9 @@
+bool y
+bool x
+bool a
+bool b
+bool home
+bool option
+bool xbox
+bool analog_left
+bool analog_right

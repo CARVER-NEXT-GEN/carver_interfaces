@@ -1,0 +1,3 @@
+float64 analog_l
+float64 thrott_l
+float64 thrott_r

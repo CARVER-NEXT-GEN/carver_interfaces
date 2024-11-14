@@ -1,0 +1,5 @@
+xbox_interfaces/Analog left
+xbox_interfaces/Analog right
+xbox_interfaces/Rear rear
+xbox_interfaces/Buttons button
+xbox_interfaces/Arrows arrow
