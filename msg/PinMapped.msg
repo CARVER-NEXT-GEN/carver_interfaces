@@ -1,5 +1,5 @@
-xbox_interfaces/Analog left
-xbox_interfaces/Analog right
-xbox_interfaces/Rear rear
-xbox_interfaces/Buttons button
-xbox_interfaces/Arrows arrow
+carver_interfaces/Analog left
+carver_interfaces/Analog right
+carver_interfaces/Rear rear
+carver_interfaces/Buttons button
+carver_interfaces/Arrows arrow

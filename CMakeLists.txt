@@ -22,6 +22,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Analog.msg"
   "msg/Arrows.msg"
   "msg/Buttons.msg"
+  "msg/AmtRead.msg"
   # DEPENDENCIES xbox_interfaces
  )
 
